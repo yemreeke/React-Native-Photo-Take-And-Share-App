@@ -1,6 +1,6 @@
 # React Native Photo Take And Share App  
 A mobile application built using React Native.
-![](https://raw.githubusercontent.com/yemreeke/React-Native-Photo-Take-And-Share-App/main/screen.jpg)
+![](https://raw.githubusercontent.com/yemreeke/React-Native-Photo-Take-And-Share-App/main/Screens.png)
 
 ## Requirements
 - NodeJS
