@@ -1,0 +1,7 @@
+npm install
+npm install react-native-view-shot
+npm install @expo/vector-icons
+
+npm install expo-camera
+npm install expo-constants
+npm install expo-location
