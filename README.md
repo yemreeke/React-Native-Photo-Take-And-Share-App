@@ -15,9 +15,9 @@ To Run or test the app on your PC.
 5. Run `npm install expo-camera` in the folder,
 6. Run `npm install expo-constants` in the folder,
 7. Run `npm install expo-location` in the folder,
-8. Open CameraScreen.js and add your own api key on line 16.
-Example:   **Location.setGoogleApiKey("YOUR API KEY");**
-Geocode API : [Click](https://developers.google.com/maps/documentation/geocoding/get-api-key)
+8. Open CameraScreen.js and add your own api key on line 16.  
+Example:   **Location.setGoogleApiKey("YOUR API KEY");**  
+Geocode API : [Click](https://developers.google.com/maps/documentation/geocoding/get-api-key)  
 9. To Run the app `npm start`.
 
 
