@@ -19,5 +19,6 @@ To Run or test the app on your PC.
 Example:   **Location.setGoogleApiKey("YOUR API KEY");**  
 Geocode API : [Click](https://developers.google.com/maps/documentation/geocoding/get-api-key)  
 9. To Run the app `npm start`.
+10. Follow the instructions from the terminal to preview the app on your phone.
 
 
